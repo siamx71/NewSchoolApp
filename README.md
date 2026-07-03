@@ -1,2 +1,3 @@
 # NewSchoolApp
-.Git
+
+
